@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="css/style2.css">
+<script src='./js/jquery-1.11.3.min.js'></script>
+<script src='./js/move.js'></script>
+<title>道汇康的子页</title>
+</head>
+
+<body>
+ 
+
+  
+  
+
+
+
+  <!-- 首页主体开始 -->
+<div class="side" >
+      <div class="content1_left" style="transition:width 0.6s ;">
+ 
+        <ul >
+          <li><a href="">我的侧边栏</a></li>
+          <li><a href="">我的侧边栏我的侧边栏我的</a></li>
+          <li><a href="">我的侧边栏我的侧边栏我的侧边栏</a></li>
+          <li><a href="">我的侧边栏我的侧边栏</a></li>
+          <li><a href="">我的侧边栏</a></li>
+          <li><a href="">我的侧边栏</a></li>
+          <li><a href="">我的侧边栏</a></li>
+          <li><a href="">我的侧边栏我的侧边栏</a></li>
+          <li><a href="">我的侧边栏</a></li>
+          <li><a href="">我的侧边栏我的侧边栏</a></li>
+          <li><a href="">我的侧边栏</a></li>
+        </ul>
+      </div>
+      <div class="content1_right">
+       <div class="content1_right_top"></div>
+       <div class="content1_right_content"></div>
+      </div>
+
+  
+
+</div>
+<div class="mid">
+	
+</div>
+</body>
